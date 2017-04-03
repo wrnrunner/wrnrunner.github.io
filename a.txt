@@ -1,0 +1,4 @@
+# git clone 
+# git config --golbal user.name
+# git config --golbal user.password
+#
