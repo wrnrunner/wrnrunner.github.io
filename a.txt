@@ -2,3 +2,16 @@
 # git config --golbal user.name
 # git config --golbal user.password
 #
+/usr/bin/bash: q: command not found
+
+/usr/bin/bash: wq: command not found
+
+/usr/bin/bash: q: command not found
+
+
+
+/usr/bin/bash: wq: command not found
+
+
+
+
